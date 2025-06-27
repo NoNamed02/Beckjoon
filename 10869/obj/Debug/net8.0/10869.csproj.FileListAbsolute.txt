@@ -1,0 +1,15 @@
+C:\Users\Yukari\Documents\GitHub\Beckjoon\10869\bin\Debug\net8.0\10869.exe
+C:\Users\Yukari\Documents\GitHub\Beckjoon\10869\bin\Debug\net8.0\10869.deps.json
+C:\Users\Yukari\Documents\GitHub\Beckjoon\10869\bin\Debug\net8.0\10869.runtimeconfig.json
+C:\Users\Yukari\Documents\GitHub\Beckjoon\10869\bin\Debug\net8.0\10869.dll
+C:\Users\Yukari\Documents\GitHub\Beckjoon\10869\bin\Debug\net8.0\10869.pdb
+C:\Users\Yukari\Documents\GitHub\Beckjoon\10869\obj\Debug\net8.0\10869.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yukari\Documents\GitHub\Beckjoon\10869\obj\Debug\net8.0\10869.AssemblyInfoInputs.cache
+C:\Users\Yukari\Documents\GitHub\Beckjoon\10869\obj\Debug\net8.0\10869.AssemblyInfo.cs
+C:\Users\Yukari\Documents\GitHub\Beckjoon\10869\obj\Debug\net8.0\10869.csproj.CoreCompileInputs.cache
+C:\Users\Yukari\Documents\GitHub\Beckjoon\10869\obj\Debug\net8.0\10869.sourcelink.json
+C:\Users\Yukari\Documents\GitHub\Beckjoon\10869\obj\Debug\net8.0\10869.dll
+C:\Users\Yukari\Documents\GitHub\Beckjoon\10869\obj\Debug\net8.0\refint\10869.dll
+C:\Users\Yukari\Documents\GitHub\Beckjoon\10869\obj\Debug\net8.0\10869.pdb
+C:\Users\Yukari\Documents\GitHub\Beckjoon\10869\obj\Debug\net8.0\10869.genruntimeconfig.cache
+C:\Users\Yukari\Documents\GitHub\Beckjoon\10869\obj\Debug\net8.0\ref\10869.dll
