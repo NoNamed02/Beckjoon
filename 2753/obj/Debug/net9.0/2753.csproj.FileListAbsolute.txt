@@ -1,0 +1,15 @@
+C:\Users\vt001\Documents\GitHub\Beckjoon\2753\bin\Debug\net9.0\2753.exe
+C:\Users\vt001\Documents\GitHub\Beckjoon\2753\bin\Debug\net9.0\2753.deps.json
+C:\Users\vt001\Documents\GitHub\Beckjoon\2753\bin\Debug\net9.0\2753.runtimeconfig.json
+C:\Users\vt001\Documents\GitHub\Beckjoon\2753\bin\Debug\net9.0\2753.dll
+C:\Users\vt001\Documents\GitHub\Beckjoon\2753\bin\Debug\net9.0\2753.pdb
+C:\Users\vt001\Documents\GitHub\Beckjoon\2753\obj\Debug\net9.0\2753.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vt001\Documents\GitHub\Beckjoon\2753\obj\Debug\net9.0\2753.AssemblyInfoInputs.cache
+C:\Users\vt001\Documents\GitHub\Beckjoon\2753\obj\Debug\net9.0\2753.AssemblyInfo.cs
+C:\Users\vt001\Documents\GitHub\Beckjoon\2753\obj\Debug\net9.0\2753.csproj.CoreCompileInputs.cache
+C:\Users\vt001\Documents\GitHub\Beckjoon\2753\obj\Debug\net9.0\2753.sourcelink.json
+C:\Users\vt001\Documents\GitHub\Beckjoon\2753\obj\Debug\net9.0\2753.dll
+C:\Users\vt001\Documents\GitHub\Beckjoon\2753\obj\Debug\net9.0\refint\2753.dll
+C:\Users\vt001\Documents\GitHub\Beckjoon\2753\obj\Debug\net9.0\2753.pdb
+C:\Users\vt001\Documents\GitHub\Beckjoon\2753\obj\Debug\net9.0\2753.genruntimeconfig.cache
+C:\Users\vt001\Documents\GitHub\Beckjoon\2753\obj\Debug\net9.0\ref\2753.dll
